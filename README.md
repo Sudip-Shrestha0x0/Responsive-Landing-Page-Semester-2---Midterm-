@@ -10,4 +10,4 @@ All code is validated, neatly formatted, and organized—index.html at the root,
 - Google Fonts
 
 ## Live Demo
-View it live: [yourusername.github.io/mtm6201-midterm](https://sudip-shrestha0x0.github.io/Responsive-Landing-Page-Semester-2---Midterm-/)
+[View it live](https://sudip-shrestha0x0.github.io/Responsive-Landing-Page-Semester-2---Midterm-/)
